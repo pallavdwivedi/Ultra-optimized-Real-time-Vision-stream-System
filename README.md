@@ -35,7 +35,7 @@ Quick Start :
 python3 -m venv venv
 source venv/bin/activate      # Linux/Mac
 
-# or on Windows
+# Mac or on Windows
 venv\Scripts\activate
 
 2. Install dependencies
