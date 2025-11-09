@@ -21,8 +21,11 @@ Features:
 Project Structure
 .
 ├── server.py              # FastAPI + WebSocket server with YOLOv8 inference
+
 ├── client.py              # Async client sending frames and receiving predictions
+
 ├── requirements.txt
+
 └── README.md
 
 Quick Start :
@@ -49,7 +52,7 @@ Default Client (Recommended)
 
 Sends frames and receives YOLO predictions.
 
-python3 client.py --source 0
+python3 client.py 
 
 --------------------------------------------------------------------------------------------------------------------
 
