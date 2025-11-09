@@ -1,0 +1,10 @@
+ultralytics
+opencv-python
+fastapi
+uvicorn[standard]
+websockets
+numpy
+torch
+torchvision
+psutil
+aiofiles
