@@ -19,7 +19,8 @@ Features:
 -Modular design with interchangeable clients
 
 Project Structure
-.
+
+
 ├── server.py              # FastAPI + WebSocket server with YOLOv8 inference
 
 ├── client.py              # Async client sending frames and receiving predictions
