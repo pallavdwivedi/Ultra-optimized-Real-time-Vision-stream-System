@@ -53,7 +53,11 @@ Default Client (Recommended)
 
 Sends frames and receives YOLO predictions.
 
-python3 client.py 
+python3 client.py and storges json in results
+
+Live Visualisation with bounding boxes.
+
+python client_visualise.py
 
 --------------------------------------------------------------------------------------------------------------------
 
