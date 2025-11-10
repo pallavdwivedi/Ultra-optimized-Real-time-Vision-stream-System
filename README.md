@@ -67,7 +67,9 @@ python client_visualise.py
 - Captures frames using OpenCV  
 - Async message loop for sending frames and receiving results  
 - Can run from webcam or video file  
-- Streams results to log or downstream processing  
+- Streams results to log or downstream processing 
+  
+**##video Demo** : https://youtu.be/2GLulJjcel8
 
 --------------------------------------------------------------------------------------------------------------------
 ![YOLO Output 1](/yolo1.png)
