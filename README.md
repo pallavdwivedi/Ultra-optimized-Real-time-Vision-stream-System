@@ -84,5 +84,5 @@ Can run from webcam or video file
 Streams results to log or downstream processing
 
 --------------------------------------------------------------------------------------------------------------------
-![YOLO Output 1](/Demo1.png)
-![YOLO Output 2](/Demo.png)
+![YOLO Output 1](/yolo1.png)
+![YOLO Output 2](/yolo2.png)
